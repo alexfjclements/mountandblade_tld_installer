@@ -5,7 +5,7 @@ The script is run by navigating to the folder in which it is saved in terminal, 
 bash mountandblade_TLD_installer.sh
 ```
 
-The script will ask you to confirm that you have downloaded the source files from https://tldmod.github.io/. Once this is confirmed it will run through the process shown in the above steam community link. While it is implementing the fixes for the audio bugs, the script will ask you to confirm the overwriting of native files. There are quite a lot of these so it is easiest to enter ``` A ``` in the terminal to accept all.
+The script will ask you to confirm that you want to install The Last Days mod from https://tldmod.github.io/. Once this is confirmed it will run through the process shown in the above steam community link. While it is implementing the fixes for the audio bugs, the script will ask you to confirm the overwriting of native files. There are quite a lot of these so it is easiest to enter ``` A ``` in the terminal to accept all.
 
 Once the script has been run, opening Mount and Blade Warband from Steam as usual in the configure format will allow TLD to be selected, and the mod should play as usual.
 
