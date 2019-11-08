@@ -1,4 +1,5 @@
 This file contains a bash script which automates the commands found on https://steamcommunity.com/workshop/filedetails/discussion/299974223/361787186436486677/
+It downloads and installs the most up to date version of Mount & Blade The Last Days mod for MacOS.
 
 The script is run by navigating to the folder in which it is saved in terminal, and entering
 ```
