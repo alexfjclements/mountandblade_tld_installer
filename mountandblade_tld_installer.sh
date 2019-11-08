@@ -10,9 +10,9 @@ then
   echo Downloading the mod base files...
   curl -L https://bitbucket.org/Swyter/tld-downloads/downloads/TLD_3.5_wb.7z -o ~/Downloads/TLD_3.5_wb.7z
 
-  echo "Downloading the nightly patch from 26/10/2019. This may not be the most up to date patch."
+  echo "Downloading the nightly patch from 07/11/2019. This may not be the most up to date patch."
   echo "See https://tldmod.github.io/ to check."
-  curl -L https://api.bitbucket.org/2.0/repositories/Swyter/tld-downloads/downloads/TLD_3.5_wb_nightly_patch_2019.10.26-11.36_r3016.7z -o ~/Downloads/TLD_3.5_wb_nightly_patch_2019.10.26-11.36_r3016.7z
+  curl -L https://api.bitbucket.org/2.0/repositories/Swyter/tld-downloads/downloads/TLD_3.5_wb_nightly_patch_2019.11.07-17.54_r3020.7z -o ~/Downloads/TLD_3.5_wb_nightly_patch_2019.11.07-17.54_r3020.7z
 
   echo Downloading the unar command-line utility...
   cd /tmp && curl -L 'cdn.theunarchiver.com/downloads/unarMac.zip' -o unar.zip && unzip -o unar.zip
